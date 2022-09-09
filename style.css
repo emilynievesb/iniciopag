@@ -32,34 +32,7 @@
     margin: 0;
   }
   
-  .section-container {
-    width: 100%;
-    display: flex;
-    padding-top: 1rem;
-  }
-  .section {
-    width: 50%;
-    margin: 1rem;
-    height: 100%;
-    background-color: #ffc172;
-    padding: 1rem;
-    border-radius: 1rem;
-  }
-  .section-img {
-    width: 50%;
-    background-image: url("img/section1.jpeg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 60%;
-  }
-  p {
-    font-family: "Comic Neue", cursive;
-    font-weight: bold;
-  }
-  
-  #img {
-    width: 50%;
-  }
+
   button {
     display: inline-block;
     align-items: center;
@@ -82,26 +55,12 @@
     text-decoration: none;
     color: black;
   }
+
   
-  .cards-container {
-    display: flex;
-    flex-direction: row;
-  }
-  
-  .card {
-    border: 3px solid #cdcdcd;
-    background-color: #cdcdcd;
-    border-radius: 16px;
-    padding: 1rem;
-    width: 20rem;
-    margin: 1rem;
-  }
-  
+
   h2 {
     font-family: "Francois One", sans-serif;
   }
   
-  .card img {
-    max-width: 18rem;
-  }
+
   
